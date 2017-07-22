@@ -30,5 +30,21 @@
     <string name="jadka_restaurant_descryption">A restaurant serving delicious food with higher prices</string>
     <string name="piec_restaurant_descryption">Very good pizza, typical Italian, thin crust,</string>
     <string name="wroclaw_decription_main">Wroclaw (pronounced Vrots-swaf; commonly known by its German and English name Breslau before 1945)Wroclaw is Poland’s fourth-largest city and the capital of the Viovodship of Lower Silesia. Originally (in medieval times) built across several islands, the city still has many lovely bridges and beautiful architecture. Not far from the German border in the country’s southeast, Wroclaw gets lots of German tourists, who call it Breslau. The Rynek (central square), lined by colorful buildings, is one of the city’s most popular destinations.</string>
+    <string name="market_square">Market Square</string>
+    <string name="grunwaldzka_street">Grunwaldzka Street</string>
+    <string name="wroclaw_west">Wroclaw West</string>
+    <string name="krasnal">Krasnal</string>
+    <string name="fountain">Fountain</string>
+    <string name="opera">Opera</string>
+    <string name="ostrow_tumski">Ostrow Tumski</string>
+    <string name="aquapark">Aquapark</string>
+    <string name="hydorpolis">Hydropolis</string>
+    <string name="kolejkowo">Kolejkowo</string>
+    <string name="zoo">Zoo</string>
+    <string name="przystan">Przystan Restaurant</string>
+    <string name="przedwojenna">Przedwojenna</string>
+    <string name="jadka">Jadka Restaurant</string>
+    <string name="piec">Piec na Szewskiej</string>
+    <string name="panorama">The Racławice Panorama</string>
 
 </resources>
