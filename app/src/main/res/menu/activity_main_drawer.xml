@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_sights"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="@string/sights" />
+        <item
+            android:id="@+id/nav_attractions"
+            android:icon="@drawable/ic_local_activity_black_24dp"
+            android:title="@string/attractions" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="@string/gallery" /> />
+        <item
+            android:id="@+id/nav_hotels"
+            android:icon="@drawable/ic_hotel_black_24dp"
+            android:title="@string/hotels" />
+        <item
+            android:id="@+id/nav_restaurants"
+            android:icon="@drawable/ic_local_dining_black_24dp"
+            android:title="@string/restaurants" />
+    </group>
+
+    <item android:title="@string/useful_links">
+        <menu>
+            <item
+                android:id="@+id/jak_dojade"
+                android:icon="@drawable/ic_directions_bus_black_24dp"
+                android:title="@string/public_communication" />
+            <item
+                android:id="@+id/wroclaw_map"
+                android:icon="@drawable/ic_location_city_black_24dp"
+                android:title="@string/wroclaw_map" />
+            <item
+                android:id="@+id/things_to_do_link"
+                android:icon="@drawable/tripadvisor_image"
+                android:title="@string/things_to_do" />
+
+        </menu>
+    </item>
+
+</menu>
