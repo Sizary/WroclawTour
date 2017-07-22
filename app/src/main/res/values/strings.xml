@@ -16,20 +16,6 @@
     <string name="attractions">Attractions</string>
     <string name="gallery">Gallery</string>
     <string name="wroclaw">Wroclaw</string>
-    <!-- Description of the places -->
-    <string name="aquapark_descryption">Aquapark Wrocław opened in February 2008. Until today it remains one of the best and most frequently visited water parks in Europe. It belongs to IAAPA, the world\'s largest organisation that associates Amusement Parks and Water Parks. The facility is owned by the Wrocław Municipality.</string>
-    <string name="hydropolis_descryption">Hydropolis is a place where diverse multimedia technologies, interactive installations, faithful replicas and models, as well as touch screens providing extensive information, serve one purpose - to show water from various fascinating perspectives.</string>
-    <string name="kolejkowo_description">The creators of Kolejkowo have built a huge and vibrant model picturing the wonderful Lower Silesia. Kolejkowo is located in one of the oldest railway stations in Wrocław. The Świebodzki Station is situated in the heart of Wrocław close to Plac Orląt Lwowskich</string>
-    <string name="zoo_description">Wroclaw ZOO has more than 150 year old history, making it the oldest in the country. It is also the most famous one thanks to the TV show “With a camera among animals”.Afrykarium is the biggest attraction of the zoo - Poland\'s first oceanarium and a unique one in the world.</string>
-    <string name="ostrow_tumski_description">(Cathedral Island, German: Dominsel) is the oldest part of the city of Wroclaw. It was formerly an island (ostrow in Old Polish language) between branches of the Oder River.</string>
-    <string name="panorama_raclawicka_description">Panorama racławicka) is a monumental (15 × 114 meter) cycloramic painting depicting the Battle of Racławice, during the Kościuszko Uprising. The painting is one of only a few preserved relics of a genre of 19th-century mass culture, and the oldest in Poland.</string>
-    <string name="wroclaw_fountain_description">Wroclawska Fontanna, is a multimedia musical fountain and ornamental pond in Wroclaw. Fountain runs only during the summer season - from the last weekend of April or the first weekend of May to late October.</string>
-    <string name="market_square_description">It is a medieval market square in Wroclaw, now the heart of a pedestrian zone. During World War II the market has been damaged, but most of the buildings preserved in good condition and has been restored.</string>
-    <string name="przystan_restaurant_descryption">The restaurant is located near the river. Tables are outside which make this place very pleasant.</string>
-    <string name="przedwojenna_restaurant_descryption">Elegant and friendly place to relax.</string>
-    <string name="jadka_restaurant_descryption">A restaurant serving delicious food with higher prices</string>
-    <string name="piec_restaurant_descryption">Very good pizza, typical Italian, thin crust,</string>
-    <string name="wroclaw_decription_main">Wroclaw (pronounced Vrots-swaf; commonly known by its German and English name Breslau before 1945)Wroclaw is Poland’s fourth-largest city and the capital of the Viovodship of Lower Silesia. Originally (in medieval times) built across several islands, the city still has many lovely bridges and beautiful architecture. Not far from the German border in the country’s southeast, Wroclaw gets lots of German tourists, who call it Breslau. The Rynek (central square), lined by colorful buildings, is one of the city’s most popular destinations.</string>
     <string name="market_square">Market Square</string>
     <string name="grunwaldzka_street">Grunwaldzka Street</string>
     <string name="wroclaw_west">Wroclaw West</string>
@@ -46,5 +32,31 @@
     <string name="jadka">Jadka Restaurant</string>
     <string name="piec">Piec na Szewskiej</string>
     <string name="panorama">The Racławice Panorama</string>
+    <string name="best_western">Best Western</string>
+    <string name="kielbasnicza_street">Kiełbaśnicza 16-19, Stare Miasto</string>
+    <string name="best_western_phone">Phone:+48 778 954 214</string>
+    <string name="campanille">Campanille</string>
+    <string name="campanille_street">ul. Jagiełły 7, Śródmieście</string>
+    <string name="campanille_phone">Phone:+48 789 521 685</string>
+    <string name="piast">Piast</string>
+    <string name="piast_street">Piłsudskiego 98, Stare Miasto</string>
+    <string name="piast_stree">Phone:+48 512 563 589</string>
+    <string name="sky_tower">Sky Tower</string>
+    <string name="sky_tower_street">Powstańców Śląskich 95, Krzyki</string>
+    <string name="sky_tower_phone">Phone:+48 858 452 356</string>
+    <!-- Description of the places -->
+    <string name="aquapark_descryption">Aquapark Wrocław opened in February 2008. Until today it remains one of the best and most frequently visited water parks in Europe. It belongs to IAAPA, the world\'s largest organisation that associates Amusement Parks and Water Parks. The facility is owned by the Wrocław Municipality.</string>
+    <string name="hydropolis_descryption">Hydropolis is a place where diverse multimedia technologies, interactive installations, faithful replicas and models, as well as touch screens providing extensive information, serve one purpose - to show water from various fascinating perspectives.</string>
+    <string name="kolejkowo_description">The creators of Kolejkowo have built a huge and vibrant model picturing the wonderful Lower Silesia. Kolejkowo is located in one of the oldest railway stations in Wrocław. The Świebodzki Station is situated in the heart of Wrocław close to Plac Orląt Lwowskich</string>
+    <string name="zoo_description">Wroclaw ZOO has more than 150 year old history, making it the oldest in the country. It is also the most famous one thanks to the TV show “With a camera among animals”.Afrykarium is the biggest attraction of the zoo - Poland\'s first oceanarium and a unique one in the world.</string>
+    <string name="ostrow_tumski_description">(Cathedral Island, German: Dominsel) is the oldest part of the city of Wroclaw. It was formerly an island (ostrow in Old Polish language) between branches of the Oder River.</string>
+    <string name="panorama_raclawicka_description">Panorama racławicka) is a monumental (15 × 114 meter) cycloramic painting depicting the Battle of Racławice, during the Kościuszko Uprising. The painting is one of only a few preserved relics of a genre of 19th-century mass culture, and the oldest in Poland.</string>
+    <string name="wroclaw_fountain_description">Wroclawska Fontanna, is a multimedia musical fountain and ornamental pond in Wroclaw. Fountain runs only during the summer season - from the last weekend of April or the first weekend of May to late October.</string>
+    <string name="market_square_description">It is a medieval market square in Wroclaw, now the heart of a pedestrian zone. During World War II the market has been damaged, but most of the buildings preserved in good condition and has been restored.</string>
+    <string name="przystan_restaurant_descryption">The restaurant is located near the river. Tables are outside which make this place very pleasant.</string>
+    <string name="przedwojenna_restaurant_descryption">Elegant and friendly place to relax.</string>
+    <string name="jadka_restaurant_descryption">A restaurant serving delicious food with higher prices</string>
+    <string name="piec_restaurant_descryption">Very good pizza, typical Italian, thin crust,</string>
+    <string name="wroclaw_decription_main">Wroclaw (pronounced Vrots-swaf; commonly known by its German and English name Breslau before 1945)Wroclaw is Poland’s fourth-largest city and the capital of the Viovodship of Lower Silesia. Originally (in medieval times) built across several islands, the city still has many lovely bridges and beautiful architecture. Not far from the German border in the country’s southeast, Wroclaw gets lots of German tourists, who call it Breslau. The Rynek (central square), lined by colorful buildings, is one of the city’s most popular destinations.</string>
 
 </resources>

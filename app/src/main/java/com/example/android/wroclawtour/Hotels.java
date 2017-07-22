@@ -18,14 +18,14 @@ public class Hotels extends AppCompatActivity {
 
         // Create a list of locations
         final ArrayList<Location> locations = new ArrayList<Location>();
-        locations.add(new Location("Best Western", "Kiełbaśnicza 16-19, Stare Miasto\n" +
-                "Phone:+48 778 954 214\n", R.drawable.best_western, "geo:51.1124849, 17.0299593"));
-        locations.add(new Location("Campanille", "ul. Jagiełły 7, Śródmieście\n" +
-                "Phone:+48 789 521 685\n", R.drawable.campanille, "geo:51.1167056, 17.0260999"));
-        locations.add(new Location("Piast", "Piłsudskiego 98, Stare Miasto\n" +
-                "Phone:+48 512 563 589\n", R.drawable.piast, "geo:51.1001248, 17.0356911"));
-        locations.add(new Location("Sky Tower", "Powstańców Śląskich 95, Krzyki\n" +
-                "Phone:+48 858 452 356\n", R.drawable.sky_tower, "geo:51.0944615, 17.0198436"));
+        locations.add(new Location(getString(R.string.best_western), getString(R.string.kielbasnicza_street) +
+                getString(R.string.best_western_phone), R.drawable.best_western, "geo:51.1124849, 17.0299593"));
+        locations.add(new Location(getString(R.string.campanille), getString(R.string.campanille_street) +
+                getString(R.string.campanille_phone), R.drawable.campanille, "geo:51.1167056, 17.0260999"));
+        locations.add(new Location(getString(R.string.piast), getString(R.string.piast_street) +
+                getString(R.string.piast_stree), R.drawable.piast, "geo:51.1001248, 17.0356911"));
+        locations.add(new Location(getString(R.string.sky_tower), getString(R.string.sky_tower_street) +
+                getString(R.string.sky_tower_phone), R.drawable.sky_tower, "geo:51.0944615, 17.0198436"));
 
         // Create an {@link LocationAdapter}, whose data source is a list of {@link Location}s. The
         // adapter knows how to create list items for each item in the list.
